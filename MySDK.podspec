@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|  
-    s.name              = 'MySDK'
+    s.name              = 'MySDK-BrScan'
     s.version           = '1.0.0'
     s.summary           = 'A really cool SDK that logs stuff.'
     s.homepage          = 'https://github.com/AlanSoaresDeOliveira/MySDK'
