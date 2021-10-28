@@ -62,11 +62,11 @@
 		</data>
 		<key>Headers/MySDK-Swift.h</key>
 		<data>
-		p78Di6XumdlWZrMdv9CxPQrTOPA=
+		IgUuN2kpiLDldWQCiQ5eGTBMKrM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TY/g0pN4WAcESQ/GC1M8X645FzM=
+		rgg4Fw1B0qehGLSUDwVAQQBUJYo=
 		</data>
 		<key>MLKitSegmentationCommonResources.bundle/Info.plist</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/MySDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		iunbGK1hjovtlQJSzPX/ssb9UT4=
+		pxLF6p0YULlxegQoGlOEUuZuW7s=
 		</data>
 		<key>Modules/MySDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		iunbGK1hjovtlQJSzPX/ssb9UT4=
+		pxLF6p0YULlxegQoGlOEUuZuW7s=
 		</data>
 		<key>Modules/MySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/MySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		R6fVMPfaPBoNWy1h9My172BNs7o=
+		fw4LAa0fU9MBE0KZ8PncwTwUkTc=
 		</data>
 		<key>Modules/MySDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/MySDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		R6fVMPfaPBoNWy1h9My172BNs7o=
+		fw4LAa0fU9MBE0KZ8PncwTwUkTc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -309,7 +309,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZuiYzd4Y19MgBdZ4UhgwnfSpsUITnQe3ZpbJ6PXpaA=
+			k5TSSMRd7LecUcYCVAFDMiIQUVzAz7ZDgcLmSkBk96s=
 			</data>
 		</dict>
 		<key>MLKitSegmentationCommonResources.bundle/Info.plist</key>
@@ -358,14 +358,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t54rsnRg/DPHv1xy5PgX+qivU7+uY1BZpfblRJaB7w4=
+			zPFjooxjSTlNo9BlAeJnkQBEhfwjGvTvoXFMXcy6iu0=
 			</data>
 		</dict>
 		<key>Modules/MySDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t54rsnRg/DPHv1xy5PgX+qivU7+uY1BZpfblRJaB7w4=
+			zPFjooxjSTlNo9BlAeJnkQBEhfwjGvTvoXFMXcy6iu0=
 			</data>
 		</dict>
 		<key>Modules/MySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -379,7 +379,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1rYoQ7UOIeZdquX7fW6xSqnpncIMAgPGtLXvio/PgHY=
+			qafAJ/l6SQ25KAtVl0shTtM2hRTs00vOTLmYPlWcvQ4=
 			</data>
 		</dict>
 		<key>Modules/MySDK.swiftmodule/arm64.swiftdoc</key>
@@ -393,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1rYoQ7UOIeZdquX7fW6xSqnpncIMAgPGtLXvio/PgHY=
+			qafAJ/l6SQ25KAtVl0shTtM2hRTs00vOTLmYPlWcvQ4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
